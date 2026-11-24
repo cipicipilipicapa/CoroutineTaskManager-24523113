@@ -1,0 +1,49 @@
+com.example.coroutinetaskmanager.app-runtime-release-0 /Users/pbudi23/.gradle/caches/9.6.0/transforms/061cabc9b29d8a2289f2214def0a2d9d/transformed/runtime-release/res
+com.example.coroutinetaskmanager.app-profileinstaller-1.4.0-1 /Users/pbudi23/.gradle/caches/9.6.0/transforms/0e65dbd0b8c1fb8bc3995a4a5f9426cb/transformed/profileinstaller-1.4.0/res
+com.example.coroutinetaskmanager.app-lifecycle-viewmodel-savedstate-2.8.7-2 /Users/pbudi23/.gradle/caches/9.6.0/transforms/16e4bc69de85c0d1049408355b2f8e8f/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.example.coroutinetaskmanager.app-runtime-saveable-release-3 /Users/pbudi23/.gradle/caches/9.6.0/transforms/1b34f409e70d6c753169b35b8a55619c/transformed/runtime-saveable-release/res
+com.example.coroutinetaskmanager.app-activity-ktx-1.10.0-4 /Users/pbudi23/.gradle/caches/9.6.0/transforms/22a7f273484b2ab87b53c1ac65b40588/transformed/activity-ktx-1.10.0/res
+com.example.coroutinetaskmanager.app-lifecycle-process-2.8.7-5 /Users/pbudi23/.gradle/caches/9.6.0/transforms/26a972413a1d61d7f87a53da84ecae4c/transformed/lifecycle-process-2.8.7/res
+com.example.coroutinetaskmanager.app-activity-compose-1.10.0-6 /Users/pbudi23/.gradle/caches/9.6.0/transforms/330c828aa6825c555995b3756302faf6/transformed/activity-compose-1.10.0/res
+com.example.coroutinetaskmanager.app-core-1.13.1-7 /Users/pbudi23/.gradle/caches/9.6.0/transforms/4304198c6de51fa064c53da0dbe6d448/transformed/core-1.13.1/res
+com.example.coroutinetaskmanager.app-graphics-path-1.0.1-8 /Users/pbudi23/.gradle/caches/9.6.0/transforms/4d7d8380838bece0a785cc6e720bd39d/transformed/graphics-path-1.0.1/res
+com.example.coroutinetaskmanager.app-material-ripple-release-9 /Users/pbudi23/.gradle/caches/9.6.0/transforms/54d6faff7797b83affd31004d8f0910e/transformed/material-ripple-release/res
+com.example.coroutinetaskmanager.app-ui-geometry-release-10 /Users/pbudi23/.gradle/caches/9.6.0/transforms/5f82fd3a7ac381ade0fa449f85891e5d/transformed/ui-geometry-release/res
+com.example.coroutinetaskmanager.app-lifecycle-runtime-compose-release-11 /Users/pbudi23/.gradle/caches/9.6.0/transforms/746de3012e9428b836f4b7782b11b0d6/transformed/lifecycle-runtime-compose-release/res
+com.example.coroutinetaskmanager.app-animation-release-12 /Users/pbudi23/.gradle/caches/9.6.0/transforms/7e47d0519733cd4bedce2f1effd4e257/transformed/animation-release/res
+com.example.coroutinetaskmanager.app-animation-core-release-13 /Users/pbudi23/.gradle/caches/9.6.0/transforms/815ac5266e04ff7de50d01dc9043d75e/transformed/animation-core-release/res
+com.example.coroutinetaskmanager.app-emoji2-1.3.0-14 /Users/pbudi23/.gradle/caches/9.6.0/transforms/91a280dc942c0356dd1ba05818e3a9e6/transformed/emoji2-1.3.0/res
+com.example.coroutinetaskmanager.app-ui-text-release-15 /Users/pbudi23/.gradle/caches/9.6.0/transforms/929451a8fbf765af919a4c3531990335/transformed/ui-text-release/res
+com.example.coroutinetaskmanager.app-ui-tooling-data-release-16 /Users/pbudi23/.gradle/caches/9.6.0/transforms/9644eab5ea5e5e3c3c0d356d24a4dc44/transformed/ui-tooling-data-release/res
+com.example.coroutinetaskmanager.app-material3-release-17 /Users/pbudi23/.gradle/caches/9.6.0/transforms/99eb947fb96037ea0b8cc993985827cc/transformed/material3-release/res
+com.example.coroutinetaskmanager.app-lifecycle-runtime-ktx-release-18 /Users/pbudi23/.gradle/caches/9.6.0/transforms/a0c5d8a6f2206dd8e9e83633a30e5542/transformed/lifecycle-runtime-ktx-release/res
+com.example.coroutinetaskmanager.app-annotation-experimental-1.4.1-19 /Users/pbudi23/.gradle/caches/9.6.0/transforms/a12460836851fa5277455247392ae0a3/transformed/annotation-experimental-1.4.1/res
+com.example.coroutinetaskmanager.app-material-icons-core-release-20 /Users/pbudi23/.gradle/caches/9.6.0/transforms/a706b215744c07c1d7497d49157bad18/transformed/material-icons-core-release/res
+com.example.coroutinetaskmanager.app-ui-tooling-release-21 /Users/pbudi23/.gradle/caches/9.6.0/transforms/ad01db2275892b34f9faa4ab16431a8f/transformed/ui-tooling-release/res
+com.example.coroutinetaskmanager.app-lifecycle-viewmodel-compose-release-22 /Users/pbudi23/.gradle/caches/9.6.0/transforms/b1ea5eb6b646d2c66d3f83b400a0b26f/transformed/lifecycle-viewmodel-compose-release/res
+com.example.coroutinetaskmanager.app-ui-unit-release-23 /Users/pbudi23/.gradle/caches/9.6.0/transforms/b1fb6dedab9815ef26a906ee6e68bdef/transformed/ui-unit-release/res
+com.example.coroutinetaskmanager.app-foundation-release-24 /Users/pbudi23/.gradle/caches/9.6.0/transforms/b348e3a6c0de8e792b095cd399226b2d/transformed/foundation-release/res
+com.example.coroutinetaskmanager.app-ui-release-25 /Users/pbudi23/.gradle/caches/9.6.0/transforms/b6c61202973486d4275bf17d393e207a/transformed/ui-release/res
+com.example.coroutinetaskmanager.app-ui-graphics-release-26 /Users/pbudi23/.gradle/caches/9.6.0/transforms/b96849e890209fc57b24f7b049bcb787/transformed/ui-graphics-release/res
+com.example.coroutinetaskmanager.app-ui-util-release-27 /Users/pbudi23/.gradle/caches/9.6.0/transforms/bb5f9ee833aa72da5c4df577ea443471/transformed/ui-util-release/res
+com.example.coroutinetaskmanager.app-activity-1.10.0-28 /Users/pbudi23/.gradle/caches/9.6.0/transforms/bc2c157691653ba92ddd2ea96f582b5a/transformed/activity-1.10.0/res
+com.example.coroutinetaskmanager.app-lifecycle-runtime-release-29 /Users/pbudi23/.gradle/caches/9.6.0/transforms/c1b6b51e138f381e56d9b5a892593b3b/transformed/lifecycle-runtime-release/res
+com.example.coroutinetaskmanager.app-foundation-layout-release-30 /Users/pbudi23/.gradle/caches/9.6.0/transforms/c28520707e9603052bbc749fc2765fc3/transformed/foundation-layout-release/res
+com.example.coroutinetaskmanager.app-core-runtime-2.2.0-31 /Users/pbudi23/.gradle/caches/9.6.0/transforms/c3efda0096fc77965b03ce71892e2935/transformed/core-runtime-2.2.0/res
+com.example.coroutinetaskmanager.app-ui-tooling-preview-release-32 /Users/pbudi23/.gradle/caches/9.6.0/transforms/c6bbd0ae9566de90e06a1a3e1c0d386e/transformed/ui-tooling-preview-release/res
+com.example.coroutinetaskmanager.app-savedstate-ktx-1.2.1-33 /Users/pbudi23/.gradle/caches/9.6.0/transforms/c88b44c526e2e56892a0df17551881e7/transformed/savedstate-ktx-1.2.1/res
+com.example.coroutinetaskmanager.app-savedstate-1.2.1-34 /Users/pbudi23/.gradle/caches/9.6.0/transforms/c9f236add03335758fd5773af93412fe/transformed/savedstate-1.2.1/res
+com.example.coroutinetaskmanager.app-material-release-35 /Users/pbudi23/.gradle/caches/9.6.0/transforms/e54b4256cf329403b83d3af328b77884/transformed/material-release/res
+com.example.coroutinetaskmanager.app-startup-runtime-1.1.1-36 /Users/pbudi23/.gradle/caches/9.6.0/transforms/ec093f74534a603ae0cf1f6d05d34106/transformed/startup-runtime-1.1.1/res
+com.example.coroutinetaskmanager.app-core-ktx-1.13.1-37 /Users/pbudi23/.gradle/caches/9.6.0/transforms/f13d138ab03babc370232ff061900344/transformed/core-ktx-1.13.1/res
+com.example.coroutinetaskmanager.app-customview-poolingcontainer-1.0.0-38 /Users/pbudi23/.gradle/caches/9.6.0/transforms/fae437c1675c8e2abcbec39ded907e76/transformed/customview-poolingcontainer-1.0.0/res
+com.example.coroutinetaskmanager.app-lifecycle-viewmodel-ktx-2.8.7-39 /Users/pbudi23/.gradle/caches/9.6.0/transforms/fcf4cc26345abbfa57d72652df56b7cd/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.example.coroutinetaskmanager.app-lifecycle-livedata-core-2.8.7-40 /Users/pbudi23/.gradle/caches/9.6.0/transforms/fe4a51efbcf8ad9ed4e0b6bddfc24efa/transformed/lifecycle-livedata-core-2.8.7/res
+com.example.coroutinetaskmanager.app-lifecycle-viewmodel-release-41 /Users/pbudi23/.gradle/caches/9.6.0/transforms/fec57dea80068bfd27ebc12d039e8ff7/transformed/lifecycle-viewmodel-release/res
+com.example.coroutinetaskmanager.app-pngs-42 /Users/pbudi23/Downloads/CoroutineTaskManager 2/app/build/generated/res/pngs/debug
+com.example.coroutinetaskmanager.app-resValues-43 /Users/pbudi23/Downloads/CoroutineTaskManager 2/app/build/generated/res/resValues/debug
+com.example.coroutinetaskmanager.app-packageDebugResources-44 /Users/pbudi23/Downloads/CoroutineTaskManager 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.coroutinetaskmanager.app-packageDebugResources-45 /Users/pbudi23/Downloads/CoroutineTaskManager 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.coroutinetaskmanager.app-debug-46 /Users/pbudi23/Downloads/CoroutineTaskManager 2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.coroutinetaskmanager.app-debug-47 /Users/pbudi23/Downloads/CoroutineTaskManager 2/app/src/debug/res
+com.example.coroutinetaskmanager.app-main-48 /Users/pbudi23/Downloads/CoroutineTaskManager 2/app/src/main/res
